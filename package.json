@@ -1,0 +1,19 @@
+{
+  "name": "AsteriskPanel",
+  "version": "0.0.1",
+  "description": "a asterisk panel",
+  "main": "index.js",
+  "authors": {
+    "name": "tqcenglish",
+    "email": "tqcenglish@gmail.com"
+  },
+  "repository": "https://github.com/tqcenglish/asterisk-panel.git/AsteriskPanel",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
